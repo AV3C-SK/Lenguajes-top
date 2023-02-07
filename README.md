@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm AV3C
-Hoy les traigo un cantenido diferente, el dia de hoy les presentare como se ven 19 lenguajes de programacion para hacer una misma cosa en comun, estos lenguajes los uso y los aprendi de manera autodicta, si me recomiendan algo para mejorar, estare muy contento de leerte.
+<h1 align="center">Hi 👋, I'm AV3C</h1>
+<h3>Hoy les traigo un cantenido diferente, el dia de hoy les presentare como se ven 19 lenguajes de programacion para hacer una misma cosa en comun, estos lenguajes los uso y los aprendi de manera autodicta, si me recomiendan algo para mejorar, estare muy contento de leerte.
 
-Estara en ingles(ALGUNOS), porque asi es la programacion, el Ingles es lo fundamental
+Estara en ingles(ALGUNOS), porque asi es la programacion, el Ingles es lo fundamental</h3>
 </h1>
 - 📫 How to reach me **aveeekq.c@gmail.com**
 
