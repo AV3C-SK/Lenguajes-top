@@ -1,0 +1,10 @@
+<style>
+  .saludo {
+    font-size: 24px;
+    font-family: Arial;
+  }
+</style>
+
+<div class="saludo">
+  <h1>Hola, ¿cuál es tu nombre?</h1>
+</div>

@@ -1,0 +1,17 @@
+<html>
+  <body>
+    <form action="greeting.php" method="post">
+      <p>
+        What's your name? <input type="text" name="name">
+      </p>
+      <input type="submit" value="Submit">
+    </form>
+  </body>
+</html>
+
+<?php 
+  if (isset($_POST['name'])) {
+    $name = $_POST['name'];
+    echo "Hello, $name!";
+  }
+?>
